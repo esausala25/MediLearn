@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704398422851",
+    "project_id": "medilearn-5fbd9",
+    "storage_bucket": "medilearn-5fbd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704398422851:android:20f55c9e2adb537bafb5f6",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.medi_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqF_aMMXLjU8sx0b_t531EDgl_mGmGWio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
